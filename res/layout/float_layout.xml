@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:background="#FF888888"
+        android:id="@+id/float_id"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:text="@string/floating"/>
+        <!--
+        android:layout_height="80dp"
+       -->    
+</LinearLayout>
